@@ -16,8 +16,10 @@ The trials shows that normal value we can use is collected after 250kills and it
 Some times there can be more than one hacker so they kill each other and lower the percent. But this percent is allways bigger.
 The decoder shown the result at the right sorted by points.
 
+<image src="https://github.com/NBAH79/HeeckerenTest/blob/main/Screenshot_2.png" width="50%" height="50%"/>
+
 <h2>The plugins are in the PLUGINS directory. Put it into your Procon\plugins\bf3 directory.</h2>
 
 The additional plugin Holmes records all the guids of players who visited the game server. It's for manual ban by guid.
 
-<image src="https://github.com/NBAH79/HeeckerenTest/blob/main/Screenshot_2.png" width="50%" height="50%"/>
+
