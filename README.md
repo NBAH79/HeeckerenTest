@@ -1,5 +1,6 @@
 # HeeckerenTest
 Decoder for HeecherenTest plugin for Procon (Battlefield 3 game)
+WPF C#
 
 Install the plugin to Procon layer. It creates a list of files in Heeckeren directory. 
 Copy some of them to Debug\Logs directory and run the decoder.
