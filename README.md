@@ -14,3 +14,7 @@ The trials shows that normal value we can use is collected after 250kills and it
 
 Some times there can be more than one hacker so they kill each other and lower the percent. But this percent is allways bigger.
 The decoder shown the result at the right sorted by points.
+
+The plugin is in the PLUGINS directory. Put it to your Procon\plugins\bf3 directory.
+
+The plugin Holmes write guids of players who visited the game server for manual ban.
