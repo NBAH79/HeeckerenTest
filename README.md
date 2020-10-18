@@ -18,3 +18,5 @@ The decoder shown the result at the right sorted by points.
 The plugins are in the PLUGINS directory. Put it into your Procon\plugins\bf3 directory.
 
 The plugin Holmes write guids of players who visited the game server for manual ban.
+
+<image src="https://github.com/NBAH79/HeeckerenTest/blob/master/Screenshot_2.png" width="50%" height="50%"/>
